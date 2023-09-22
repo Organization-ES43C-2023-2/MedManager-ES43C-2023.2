@@ -1,4 +1,4 @@
-requisitos funcionais do projeto med manager
+# requisitos funcionais do projeto med manager
 
 RF 01- o software deve permitir cadastro e atualização de cadastro do cliente.
 RF 02-o software deve permitir o cadastro e atualização de cadastro do médico.
